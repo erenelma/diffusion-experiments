@@ -8,7 +8,7 @@ Experiments were done on the Google Colab, and ".py" files were organized accord
 
 You can use the %cd command on your Google Colab notebook to go to the experiment folder.
 
-%cd /content/MY_PATH_DIFFUSION_EXPERIMENT_FOLDER
+#%cd /content/MY_PATH_DIFFUSION_EXPERIMENT_FOLDER
 
 You can use the %run command on your Google Colab notebook to run .py files with config files. The name of the config file must be located after the name of the ".py" file.
 
