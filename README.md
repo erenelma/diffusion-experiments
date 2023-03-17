@@ -1,6 +1,9 @@
 # Diffusion Experiments
 This is the repo for implementation of our diffusion-based study.
 
+# Privacy
+
+This repo does not contain the full version of our code because of privacy. If you want to get the full version of the code, you can contact to berna.altinel@marmara.edu.tr 
 
 # Reproduciblity
 
