@@ -5,6 +5,8 @@ This is the repo for implementation of our diffusion-based study.
 
 This repo does not contain the full version of our code because of privacy. If you want to get the full version of the code, please contact berna.altinel@marmara.edu.tr
 
+After getting the full version of the code, you can reproduce the experiments. Details about running our python script are as below.
+
 # Reproduciblity
 
 Experiments were done on the Google Colab, and ".py" files were organized according to to run with Google Colab. Our ".ipynb" and ".py" files can be found in related directories. Commands for running .py files can be found in ".ipynb" files. Config files can be found in the "configs" directories. For experiments of GCN/GAT, config files were separated into training, thresholding, and tuning run modes.
